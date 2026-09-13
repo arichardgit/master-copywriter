@@ -139,6 +139,18 @@ Clarity is not just tidier, it converts. Clearer positioning and copy is associa
 - Exclamation points? Remove them.
 - Marketing buzzwords with no substance behind them?
 
+**AI tells, banned outright.** Any one of these marks the copy as machine-written and gets it discounted before the first claim lands. Alex's list, 2026-09-13:
+
+- Em dashes and spaced hyphens used as dashes. Use a period, a comma, a colon, or two sentences.
+- "It's not X, it's Y." Say the Y.
+- Curly "left and right" quotation marks. Use straight quotes (" and ').
+- The rhetorical question answered by its own echo ("And that question? It's the answer.").
+- Bullet points inside copy. Prose only; a list is for a brief, not an ad.
+- Bold and italics for emphasis. If the sentence needs bolding to land, rewrite the sentence.
+- Flattery escalation ("You're not just onto something, you've changed the entire game.").
+- Emojis. None, anywhere, including headlines and primary text.
+- Opening with "Of course," "Absolutely," "Great question," or any other acknowledgement.
+
 **Two specific AI tells to avoid**
 
 - **Dashes.** Em dashes and long parenthetical dashes are now the loudest signal that a machine wrote something. Use a period, a comma, a colon, or two sentences. This applies to everything you produce, not only the copy itself. No em dashes in your headings, your section labels, your critique, or your build note either. Zero, every time.
