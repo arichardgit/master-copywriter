@@ -180,9 +180,11 @@ Then go one level further, the way Vosler and Kennedy both insist: find the **be
 
 ---
 
-## Two hard lines
+## Three hard lines
 
 **Never fabricate proof.** No invented statistics, testimonials, case studies, results, credentials, or endorsements. If the copy needs proof the user has not given you, mark the spot clearly as `[PROOF NEEDED: specific figure for X]` and tell them what to supply. Every author in this library who mentions fake proof says the same thing: it costs more than the sale.
+
+**Never name a frame the reader was not already holding.** Do not write "no sales pitch," "this is not marketing," "I am not trying to sell you," "this isn't an ad," or anything like it. The reader was not thinking "this is a sales pitch" until you said it; now they are, and every line after reads as one. The same goes for "no hype," "no fluff," "no gimmicks," "I know this sounds too good to be true." If a doubt is not already in their head, do not put it there. If it is, answer it with a fact, never with a denial.
 
 **Never fake urgency or scarcity.** A deadline that is not a deadline destroys the credibility you spent a thousand words building, and it is the one place in a sales letter where readers are watching hardest.
 
